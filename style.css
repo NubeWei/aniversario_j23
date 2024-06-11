@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#01204E;
+}
+p{
+  color: #EEEEEE;
+  font-family: 'Roboto' sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+}
+.mensaje p{
+  font-family: 'Roboto';
+  color: #EEEEEE;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.encabezado img{
+  margin: 30px;
+  max-height: 150px;
+  min-height: 75px;
+}
+.pastel img{
+  height: 350px;
+  margin: 30px;
+}
